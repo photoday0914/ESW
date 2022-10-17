@@ -69,11 +69,11 @@ $ npm run dev
 		- parameter
 			- name: company name (string type)
 	- description
-		- mark the company as bezos related and return the response with updated transactions and calculated results
+		- mark the company as Bezos related and return the response with updated transactions and calculated results
 - /unmark
 	- method: post
 	- body:  [name : value]
 		- parameter
 			- name: company name (string type)
 	- description
-		- unmark the bezos related company and return the response with updated transactions and calculated results
+		- unmark the Bezos related company and return the response with updated transactions and calculated results
